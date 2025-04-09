@@ -29,3 +29,10 @@ src="https://img.shields.io/github/followers/amhar4u?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/amhar4u"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amhar4u&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<h4 align="center">Top Languages Used</h4>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhar4u&langs_count=10&theme=tokyonight&layout=compact" alt="amhar4u :: Top Langs" />
+</p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
