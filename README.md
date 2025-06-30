@@ -55,7 +55,7 @@ class Amhar:
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="jQuery" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
-<a href="https://laravel.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" /></a>
+<a href="https://laravel.com/docs" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="40" height="40" alt="Laravel" /></a>
 <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel-livewire.com/img/twitter.png" width="40" height="40" alt="Livewire" /></a>
 </p>
 
