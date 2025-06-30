@@ -40,52 +40,59 @@ class Amhar:
 
 ### **Languages**
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40" alt="Kotlin" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" />
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40" height="40" alt="Kotlin" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" /></a>
 </p>
 
 ### **Frontend**
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="jQuery" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" />
-<img src="data:image/png;base64,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" width="40" height="40" alt="Laravel" />
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" alt="jQuery" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
+<a href="https://laravel.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" /></a>
+<a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel-livewire.com/img/twitter.png" width="40" height="40" alt="Livewire" /></a>
 </p>
 
 ### **Mobile Development**
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React Native" />
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>
 </p>
 
 ### **Backend & Databases**
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="40" height="40" alt=".NET" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /></a>
 </p>
 
 ### **ERP & Business Solutions**
 <p align="left">
-<img src="https://frappeschool.com/favicon.ico" width="40" height="40" alt="Frappe" />
-<img src="https://erpnext.com/favicon.ico" width="40" height="40" alt="ERPNext" />
+<a href="https://frappeframework.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Frappe Framework" title="Frappe Framework" /></a>
+<a href="https://docs.erpnext.com/" target="_blank" rel="noreferrer"><img src="https://erpnext.com/files/erpnext-logo-blue.svg" width="40" height="40" alt="ERPNext" /></a>
+</p>
+
+### **APIs & Integration**
+<p align="left">
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="REST API" title="REST API" /></a>
+<a href="https://www.soapui.org/docs/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/soapui/media/images/stories/soapui-icon.svg" width="40" height="40" alt="SOAP API" /></a>
 </p>
 
 ### **Tools & Others**
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" />
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="40" height="40" alt="Photoshop" /></a>
 </p>
 
 ---
