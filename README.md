@@ -84,7 +84,7 @@ class Amhar:
 ### **APIs & Integration**
 <p align="left">
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="REST API" title="REST API" /></a>
-<a href="https://www.soapui.org/docs/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/soapui/media/images/stories/soapui-icon.svg" width="40" height="40" alt="SOAP API" /></a>
+<a href="https://www.soapui.org/docs/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/31053/xml.svg" width="40" height="40" alt="SOAP API" /></a>
 </p>
 
 ### **Tools & Others**
