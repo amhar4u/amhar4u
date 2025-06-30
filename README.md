@@ -78,7 +78,7 @@ class Amhar:
 ### **ERP & Business Solutions**
 <p align="left">
 <a href="https://frappeframework.com/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Frappe Framework" title="Frappe Framework" /></a>
-<a href="https://docs.erpnext.com/" target="_blank" rel="noreferrer"><img src="https://erpnext.com/files/erpnext-logo-blue.svg" width="40" height="40" alt="ERPNext" /></a>
+<a href="https://docs.erpnext.com/" target="_blank" rel="noreferrer"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/erpnext-6m5lsrhfzfus30nlc2q239.png/erpnext-mtq9lqvyi6nmj0suk31x29.png?_a=DATAdtAAZAA0" width="40" height="40" alt="ERPNext" /></a>
 </p>
 
 ### **APIs & Integration**
