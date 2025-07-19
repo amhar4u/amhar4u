@@ -57,6 +57,7 @@ class Amhar:
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
 <a href="https://laravel.com/docs" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="40" height="40" alt="Laravel" /></a>
 <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel-livewire.com/img/twitter.png" width="40" height="40" alt="Livewire" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.png" width="40" height="40" alt="Angular" /></a>
 </p>
 
 ### **Mobile Development**
