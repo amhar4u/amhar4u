@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** from 🇱🇰 **Sri Lanka** with **2+ years** of 
 class MuhammedAmhar:
     def __init__(self):
         self.name        = "Muhammed Amhar"
-        self.role        = "Full Stack Developer"
+        self.role        = "Laravel Developer | Software Engineer"
         self.experience  = "2+ years"
         self.location    = "Sri Lanka 🇱🇰"
         self.focus       = ["React", "Flutter", "ERPNext", "Laravel"]
