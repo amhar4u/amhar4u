@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Amhar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20ERP%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Amhar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer+%7C+2%2B+Years;📱+Mobile+App+Developer+(Flutter+%2B+React+Native);🏢+ERP+Solutions+Expert+(ERPNext+%2F+Frappe);⚡+Building+scalable+solutions+from+🇱🇰" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💻+Laravel+Developer+%7C+Software+Engineer;🚀+Full+Stack+Developer+%7C+2%2B+Years;📱+Mobile+App+Developer+(Flutter+%2B+React+Native);🏢+ERP+Solutions+Expert+(ERPNext+%2F+Frappe);⚡+Building+scalable+solutions+from+🇱🇰" alt="Typing SVG" />
 
 <br/>
 
