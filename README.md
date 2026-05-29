@@ -196,7 +196,7 @@ Team & Leadership:
 | 🔭 Working on | ERP solutions with Frappe/ERPNext |
 | 🌱 Learning | Advanced React patterns & Flutter animations |
 | 👯 Open to | Open source collaboration & innovative mobile apps |
-| 💬 Ask me about | Laravel, React, Flutter, ERPNext, Team Leadership |
+| 💬 Ask me about | Laravel, Software Engineering, React, Flutter, ERPNext, Team Leadership |
 | 📫 Reach me | muhammedamhar@gmail.com |
 | ⚡ Fun fact | I love leading dev teams & solving complex problems! |
 
