@@ -123,6 +123,11 @@ print(amhar.life_philosophy())  # → "Build. Break. Learn. Repeat. 🔁"
 ## 💡 What I Bring to the Table
 
 ```yaml
+Laravel & Backend Engineering:
+  - Build robust REST APIs and web apps with Laravel & Livewire
+  - Design clean, maintainable software with SOLID principles
+  - Optimize MySQL queries and database architecture
+
 Problem Solving:
   - Architect scalable full-stack systems end-to-end
   - Customize ERPNext to fit complex business workflows
