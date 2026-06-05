@@ -102,6 +102,45 @@ print(amhar.life_philosophy())  # → "Build. Break. Learn. Repeat. 🔁"
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|---|---|---|---|
+| **ERP Business Suite** | Custom ERPNext modules for manufacturing & HR | Frappe, Python, JS | 🔒 Private |
+| **Flutter E-Commerce App** | Full-featured mobile shopping app with Firebase | Flutter, Firebase, Dart | 🔒 Private |
+| **Laravel CRM System** | Customer relationship management for SMEs | Laravel, Livewire, MySQL | 🔒 Private |
+| **React Admin Dashboard** | Real-time analytics dashboard with charts | React, Node.js, MongoDB | 🔒 Private |
+| **Android POS System** | Point-of-sale system for retail businesses | Kotlin, SQLite, REST API | 🔒 Private |
+
+</div>
+
+> 💡 *Most of my work is for clients and is private. Feel free to reach out to see demos!*
+
+---
+
+## 💡 What I Bring to the Table
+
+```yaml
+Problem Solving:
+  - Architect scalable full-stack systems end-to-end
+  - Customize ERPNext to fit complex business workflows
+  - Integrate third-party APIs (REST & SOAP)
+
+Mobile Expertise:
+  - Cross-platform apps with Flutter (iOS + Android)
+  - Native Android development in Kotlin
+  - React Native for JavaScript-based mobile
+
+Team & Leadership:
+  - Lead and mentor junior developers
+  - Agile/Scrum project management via Jira
+  - Code reviews and best practices implementation
+```
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
