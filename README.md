@@ -141,6 +141,37 @@ Team & Leadership:
 
 ---
 
+## 🧭 My Journey
+
+```
+2022 ──────────────────────────────────────────────────────── 2024+
+ │                                                              │
+ ▼                                                              ▼
+🌱 Started with          📱 Expanded into        🏢 Now leading
+   PHP & Laravel            Flutter & Mobile         ERP Projects &
+   Web Development          Development              Full Stack Teams
+        │                        │                        │
+        └──── JavaScript ────────┘                        │
+              React & Node.js                             │
+                   │                                      │
+                   └────────── ERPNext / Frappe ──────────┘
+                               Business Solutions
+```
+
+### 🏆 Milestones & Achievements
+
+| 🎖️ | Achievement |
+|-----|------------|
+| 🚀 | Delivered **10+ full-stack web applications** for clients |
+| 📱 | Built **5+ cross-platform mobile apps** using Flutter & React Native |
+| 🏢 | Successfully deployed and customized **ERPNext** for multiple businesses |
+| 🤝 | Led a development team of **3–5 engineers** on complex projects |
+| 🔗 | Integrated **REST & SOAP APIs** with multiple enterprise systems |
+| 🌍 | Worked with clients across **Sri Lanka and internationally** |
+| ⚡ | Reduced client business process time by **40%** through ERP automation |
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -150,6 +181,10 @@ Team & Leadership:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhar4u&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amhar4u&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </div>
 
 ---
@@ -177,6 +212,15 @@ Team & Leadership:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94712730644)
 
 📞 **+94 712 730 644** &nbsp;|&nbsp; 📞 **+94 776 657 107** &nbsp;|&nbsp; 📍 **Sri Lanka**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
