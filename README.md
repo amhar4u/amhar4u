@@ -19,7 +19,7 @@
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-I'm a **Laravel Developer & Software Engineer** from 🇱🇰 **Sri Lanka** with **2+ years** of hands-on experience building web applications, mobile apps, and enterprise ERP solutions. I love crafting clean, scalable code and leading teams to ship great products.
+I'm a **Laravel Developer & Software Engineer** from 🇱🇰 **Sri Lanka** with **2+ years** of hands-on experience building web applications, mobile apps, and enterprise ERP solutions. Currently working as a **Software Engineer @ Dynamic Labs (Magiya.lk)**, I love crafting clean, scalable code and leading teams to ship great products.
 
 ```python
 class MuhammedAmhar:
@@ -199,6 +199,7 @@ Team & Leadership:
 
 | Status | Details |
 |--------|---------|
+| 💼 Working as | Software Engineer @ Dynamic Labs (Magiya.lk) |
 | 🔭 Working on | ERP solutions with Frappe/ERPNext |
 | 🌱 Learning | Advanced React patterns & Flutter animations |
 | 👯 Open to | Open source collaboration & innovative mobile apps |
