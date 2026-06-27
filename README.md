@@ -169,6 +169,7 @@ Team & Leadership:
 |-----|------------|
 | 🚀 | Delivered **10+ full-stack web applications** for clients |
 | 💻 | Engineered **production Laravel apps** with clean, scalable architecture |
+| 💼 | Currently building products as **Software Engineer @ Dynamic Labs (Magiya.lk)** |
 | 📱 | Built **5+ cross-platform mobile apps** using Flutter & React Native |
 | 🏢 | Successfully deployed and customized **ERPNext** for multiple businesses |
 | 🤝 | Led a development team of **3–5 engineers** on complex projects |
