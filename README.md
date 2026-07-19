@@ -66,6 +66,19 @@ final class MuhammedAmhar extends SoftwareEngineer
 echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 ```
 
+<div align="center">
+
+| ⚡ Quick Facts | |
+|:---|:---|
+| 🏢 **Working at** | Dynamic Labs — Magiya.lk |
+| 🧰 **Go-to stack** | Laravel · Livewire · MySQL · Flutter |
+| 🏗️ **Best at** | Turning tangled business rules into clean APIs |
+| 🧑‍🏫 **Also do** | Mentoring juniors & running code reviews |
+| 🌍 **Open to** | Freelance · Full-time · Open Source · Collaboration |
+| ☕ **Fuel** | Strong coffee and a well-named variable |
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
