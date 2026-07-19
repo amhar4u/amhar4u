@@ -17,9 +17,17 @@
 
 ## 👨‍💻 About Me
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<div align="center">
 
-I'm a **Laravel Developer & Software Engineer** from 🇱🇰 **Sri Lanka** with **2+ years** of hands-on experience building web applications, mobile apps, and enterprise ERP solutions. Currently working as a **Software Engineer @ Dynamic Labs (Magiya.lk)**, I love crafting clean, scalable code and leading teams to ship great products.
+*"Simplicity is the soul of efficiency."* — **Austin Freeman**
+
+</div>
+
+Hey there 👋 I'm **Amhar** — a **Software Engineer** from 🇱🇰 **Sri Lanka**, currently building products at **Dynamic Labs (Magiya.lk)**.
+
+I spend most of my days deep in **Laravel** backends, **Flutter** apps and **ERPNext** customizations — translating messy business requirements into clean, scalable systems. Across **2+ years** I've shipped **10+ web applications** and **5+ mobile apps**, and led small teams through the full cycle: discovery → architecture → code review → deploy.
+
+🔭 Right now I'm focused on **API-first architecture**, **ERP automation**, and writing code my future self won't hate.
 
 ```python
 class MuhammedAmhar:
