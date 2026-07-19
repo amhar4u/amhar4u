@@ -29,25 +29,41 @@ I spend most of my days deep in **Laravel** backends, **Flutter** apps and **ERP
 
 🔭 Right now I'm focused on **API-first architecture**, **ERP automation**, and writing code my future self won't hate.
 
-```python
-class MuhammedAmhar:
-    def __init__(self):
-        self.name        = "Muhammed Amhar"
-        self.role        = "Laravel Developer | Software Engineer"
-        self.experience  = "2+ years"
-        self.location    = "Sri Lanka 🇱🇰"
-        self.focus       = ["React", "Flutter", "ERPNext", "Laravel"]
-        self.superpower  = "Turning complex problems into elegant solutions"
-        self.open_to     = ["Freelance", "Full-time", "Open Source", "Collaboration"]
+```php
+<?php
 
-    def daily_tools(self):
-        return ["VS Code 💻", "Git 🔀", "Jira 📋", "Linux 🐧", "Coffee ☕"]
+namespace SriLanka\Colombo;
 
-    def life_philosophy(self):
-        return "Build. Break. Learn. Repeat. 🔁"
+final class MuhammedAmhar extends SoftwareEngineer
+{
+    public string $role     = 'Software Engineer @ Dynamic Labs (Magiya.lk)';
+    public string $exp      = '2+ years';
+    public string $timezone = 'Asia/Colombo (UTC+5:30)';
 
-amhar = MuhammedAmhar()
-print(amhar.life_philosophy())  # → "Build. Break. Learn. Repeat. 🔁"
+    public array $stack = [
+        'backend'  => ['Laravel', 'Livewire', 'Node.js', 'Frappe'],
+        'frontend' => ['React', 'Angular', 'Bootstrap', 'jQuery'],
+        'mobile'   => ['Flutter', 'React Native', 'Kotlin'],
+        'data'     => ['MySQL', 'MongoDB', 'Firebase'],
+    ];
+
+    public function currentlyBuilding(): array
+    {
+        return ['ERP modules', 'REST & SOAP integrations', 'Cross-platform apps'];
+    }
+
+    public function dailyDriver(): array
+    {
+        return ['VS Code 💻', 'Git 🔀', 'Jira 📋', 'Linux 🐧', 'Coffee ☕'];
+    }
+
+    public function philosophy(): string
+    {
+        return 'Build. Break. Learn. Repeat. 🔁';
+    }
+}
+
+echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 ```
 
 ---
