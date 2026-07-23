@@ -226,7 +226,7 @@ Team & Leadership:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhar4u&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amhar4u&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=480" alt="Most Used Languages" />
 </div>
 
 <div align="center">
