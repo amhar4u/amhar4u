@@ -221,16 +221,16 @@ Team & Leadership:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amhar4u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="Muhammed Amhar's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amhar4u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" height="170" alt="Muhammed Amhar's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=amhar4u&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amhar4u&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=480" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amhar4u&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=480&cache_seconds=86400" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amhar4u&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amhar4u&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" width="95%" alt="Contribution Activity Graph" />
 </div>
 
 ---
