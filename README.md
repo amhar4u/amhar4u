@@ -267,7 +267,10 @@ Team & Leadership:
 <div align="center">
 
 ### 💭 Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&v=1" alt="Random Dev Quote" width="80%" />
+
+<sub>🔄 Rotates automatically every day</sub>
 
 </div>
 
