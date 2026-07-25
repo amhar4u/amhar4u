@@ -272,6 +272,12 @@ Team & Leadership:
 
 <sub>🔄 Rotates automatically every day</sub>
 
+<br/><br/>
+
+### 😄 Dev Joke of the Day
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&qColor=%2300D9FF&aColor=%23a9fef7&v=1" alt="Random Dev Joke" width="70%" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
