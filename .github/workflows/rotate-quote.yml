@@ -1,0 +1,32 @@
+name: 🔄 Rotate Dev Quote
+
+# GitHub proxies README images through camo and caches them, so a static URL
+# would show the same quote for days. Bumping the ?v= cache-buster once a day
+# makes camo fetch a fresh (random) quote.
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # 06:00 Asia/Colombo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bump the quote cache-buster
+        run: |
+          STAMP=$(date -u +%Y%m%d)
+          sed -i -E "s/(quotes-github-readme\.vercel\.app[^\"]*&v=)[0-9]+/\1${STAMP}/g" README.md
+
+      - name: Commit if the quote changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md && echo "Nothing to rotate." && exit 0
+          git commit -am "🔄 Rotate dev quote of the day"
+          git push
