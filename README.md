@@ -13,6 +13,10 @@
 [![Email](https://img.shields.io/badge/Email-muhammedamhar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedamhar@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=amhar4u&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/amhar4u)
 
+[![Hire Me](https://img.shields.io/badge/💼_Open_to_Work-Let's_Talk-00D9FF?style=for-the-badge&labelColor=0d1117)](mailto:muhammedamhar@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/94712730644)
+[![Location](https://img.shields.io/badge/Based_in-Sri_Lanka_🇱🇰-8A2BE2?style=for-the-badge&labelColor=0d1117)](https://github.com/amhar4u)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
@@ -231,6 +235,16 @@ Team & Leadership:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amhar4u&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" width="95%" alt="Contribution Activity Graph" />
+</div>
+
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amhar4u/amhar4u/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amhar4u/amhar4u/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/amhar4u/amhar4u/output/snake.svg" alt="Contribution snake animation" width="95%" />
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
