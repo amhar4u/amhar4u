@@ -15,7 +15,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -81,7 +81,7 @@ echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -139,7 +139,7 @@ echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -157,7 +157,7 @@ echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 
 > 💡 *Most of my work is for clients and is private. Feel free to reach out to see demos!*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 💡 What I Bring to the Table
 
@@ -183,7 +183,7 @@ Team & Leadership:
   - Code reviews and best practices implementation
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🧭 My Journey
 
@@ -216,7 +216,7 @@ Team & Leadership:
 | 🌍 | Worked with clients across **Sri Lanka and internationally** |
 | ⚡ | Reduced client business process time by **40%** through ERP automation |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 📊 GitHub Statistics
 
@@ -233,7 +233,7 @@ Team & Leadership:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amhar4u&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2031%20Days" width="95%" alt="Contribution Activity Graph" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🎯 Currently
 
@@ -247,7 +247,7 @@ Team & Leadership:
 | 📫 Reach me | muhammedamhar@gmail.com |
 | ⚡ Fun fact | I love leading dev teams & solving complex problems! |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 ## 🌐 Connect With Me
 
@@ -262,7 +262,7 @@ Team & Leadership:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
 <div align="center">
 
