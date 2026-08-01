@@ -292,6 +292,12 @@ Team & Leadership:
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&qColor=%2300D9FF&aColor=%23a9fef7&v=1" alt="Random Dev Joke" width="70%" />
 
+<br/>
+
+⭐️ **Thanks for stopping by — let's build something great together!**
+
+<sub>Got an idea, a project, or just want to talk Laravel? My inbox is always open.</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=20&fontColor=fff&fontAlignY=75&animation=twinkling" width="100%" />
