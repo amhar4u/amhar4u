@@ -44,7 +44,7 @@ namespace SriLanka\Colombo;
 
 final class MuhammedAmhar extends SoftwareEngineer
 {
-    public string $role     = 'Software Engineer @ Dynamic Labs (Magiya.lk)';
+    public string $role     = 'Senior Software Engineer @ Dynamic Labs (Magiya.lk)';
     public string $exp      = '2+ years';
     public string $timezone = 'Asia/Colombo (UTC+5:30)';
 
@@ -58,6 +58,11 @@ final class MuhammedAmhar extends SoftwareEngineer
     public function currentlyBuilding(): array
     {
         return ['ERP modules', 'REST & SOAP integrations', 'Cross-platform apps'];
+    }
+
+    public function ownsAsSenior(): array
+    {
+        return ['System design', 'Code reviews', 'Mentoring', 'Release quality'];
     }
 
     public function dailyDriver(): array
