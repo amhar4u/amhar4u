@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Amhar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Laravel%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammed%20Amhar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Laravel%20%26%20ERP%20Specialist&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/amhar4u">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer+%40+Dynamic+Labs+(Magiya.lk);Laravel+%2B+Livewire+for+backends+that+scale;Flutter+%26+React+Native+for+mobile;ERPNext+%2F+Frappe+for+business+automation;Build.+Break.+Learn.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Senior+Software+Engineer+%40+Dynamic+Labs+(Magiya.lk);Architecting+%26+mentoring%2C+not+just+shipping;Laravel+%2B+Livewire+for+backends+that+scale;Flutter+%26+React+Native+for+mobile;ERPNext+%2F+Frappe+for+business+automation;Build.+Break.+Learn.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
 </a>
 
 <br/>
