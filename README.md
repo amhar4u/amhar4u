@@ -84,9 +84,10 @@ echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 | ⚡ Quick Facts | |
 |:---|:---|
 | 🏢 **Working at** | Dynamic Labs — Magiya.lk |
+| 🎖️ **Current title** | Senior Software Engineer *(promoted Aug 2026)* |
 | 🧰 **Go-to stack** | Laravel · Livewire · MySQL · Flutter |
 | 🏗️ **Best at** | Turning tangled business rules into clean APIs |
-| 🧑‍🏫 **Also do** | Mentoring juniors & running code reviews |
+| 🧑‍🏫 **Also do** | Mentoring engineers, design reviews & release quality |
 | 🌍 **Open to** | Freelance · Full-time · Open Source · Collaboration |
 | ☕ **Fuel** | Strong coffee and a well-named variable |
 
@@ -260,11 +261,11 @@ Team & Leadership:
 
 | Status | Details |
 |--------|---------|
-| 💼 Working as | Software Engineer @ Dynamic Labs (Magiya.lk) |
+| 💼 Working as | **Senior** Software Engineer @ Dynamic Labs (Magiya.lk) |
 | 🔭 Working on | ERP solutions with Frappe/ERPNext |
-| 🌱 Learning | Advanced React patterns & Flutter animations |
+| 🌱 Learning | System design at scale, Docker & CI/CD pipelines |
 | 👯 Open to | Open source collaboration & innovative mobile apps |
-| 💬 Ask me about | Laravel, Software Engineering, React, Flutter, ERPNext, Team Leadership |
+| 💬 Ask me about | Laravel, System Design, React, Flutter, ERPNext, Team Leadership |
 | 📫 Reach me | muhammedamhar@gmail.com |
 | ⚡ Fun fact | I love leading dev teams & solving complex problems! |
 
