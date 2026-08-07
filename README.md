@@ -29,9 +29,11 @@
 
 </div>
 
-Hey there 👋 I'm **Amhar** — a **Software Engineer** from 🇱🇰 **Sri Lanka**, currently building products at **Dynamic Labs (Magiya.lk)**.
+Hey there 👋 I'm **Amhar** — a **Senior Software Engineer** from 🇱🇰 **Sri Lanka**, currently building products at **Dynamic Labs (Magiya.lk)**.
 
 I spend most of my days deep in **Laravel** backends, **Flutter** apps and **ERPNext** customizations — translating messy business requirements into clean, scalable systems. Across **2+ years** I've shipped **10+ web applications** and **5+ mobile apps**, and led small teams through the full cycle: discovery → architecture → code review → deploy.
+
+🎉 **Recently promoted to Senior Software Engineer** — which these days means less time typing and more time on architecture calls, design reviews and unblocking the people around me.
 
 🔭 Right now I'm focused on **API-first architecture**, **ERP automation**, and writing code my future self won't hate.
 
