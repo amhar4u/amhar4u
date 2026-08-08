@@ -206,18 +206,21 @@ Senior Engineering (what changed with the title):
 ## 🧭 My Journey
 
 ```
-2022 ──────────────────────────────────────────────────────── 2024+
- │                                                              │
- ▼                                                              ▼
-🌱 Started with          📱 Expanded into        🏢 Now leading
-   PHP & Laravel            Flutter & Mobile         ERP Projects &
-   Web Development          Development              Full Stack Teams
-        │                        │                        │
-        └──── JavaScript ────────┘                        │
-              React & Node.js                             │
-                   │                                      │
-                   └────────── ERPNext / Frappe ──────────┘
-                               Business Solutions
+2022 ─────────────── 2023 ─────────────── 2024 ─────────────── 2026
+ │                    │                    │                    │
+ ▼                    ▼                    ▼                    ▼
+🌱 Started with    📱 Expanded into    🏢 Led ERP &        🎖️ Promoted to
+   PHP & Laravel      Flutter &           Full Stack          SENIOR SOFTWARE
+   Web Development    Mobile Dev          Teams               ENGINEER
+        │                  │                   │              @ Dynamic Labs
+        └──── JavaScript ──┘                   │                    │
+              React & Node.js                  │                    │
+                   │                           │                    │
+                   └───── ERPNext / Frappe ────┘                    │
+                          Business Solutions                        │
+                                │                                   │
+                                └──── Architecture · Mentorship ────┘
+                                      Code Review · Delivery
 ```
 
 ### 🏆 Milestones & Achievements
