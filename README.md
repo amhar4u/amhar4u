@@ -193,6 +193,12 @@ Team & Leadership:
   - Lead and mentor junior developers
   - Agile/Scrum project management via Jira
   - Code reviews and best practices implementation
+
+Senior Engineering (what changed with the title):
+  - Own system design and technical decisions end-to-end
+  - Set coding standards and review culture across the team
+  - Break large product goals into shippable, estimated milestones
+  - Debug and de-risk production incidents before they escalate
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
