@@ -162,13 +162,14 @@ echo (new MuhammedAmhar)->philosophy(); // → Build. Break. Learn. Repeat. 🔁
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|---|---|---|---|
-| **ERP Business Suite** | Custom ERPNext modules for manufacturing & HR | Frappe, Python, JS | 🔒 Private |
-| **Flutter E-Commerce App** | Full-featured mobile shopping app with Firebase | Flutter, Firebase, Dart | 🔒 Private |
-| **Laravel CRM System** | Customer relationship management for SMEs | Laravel, Livewire, MySQL | 🔒 Private |
-| **React Admin Dashboard** | Real-time analytics dashboard with charts | React, Node.js, MongoDB | 🔒 Private |
-| **Android POS System** | Point-of-sale system for retail businesses | Kotlin, SQLite, REST API | 🔒 Private |
+| 🏷️ Project | 📝 Description | 🛠️ Stack | 🎯 My Role | 🔗 Link |
+|---|---|---|---|---|
+| **Multi-Tenant SaaS Platform** | Multi-tenant Laravel platform with role-based access & billing | Laravel, Livewire, Redis | 🏗️ Architecture & tech lead | 🔒 Private |
+| **ERP Business Suite** | Custom ERPNext modules for manufacturing & HR | Frappe, Python, JS | 🏗️ Lead developer | 🔒 Private |
+| **Flutter E-Commerce App** | Full-featured mobile shopping app with Firebase | Flutter, Firebase, Dart | 📱 Mobile lead | 🔒 Private |
+| **Laravel CRM System** | Customer relationship management for SMEs | Laravel, Livewire, MySQL | ⚙️ Backend owner | 🔒 Private |
+| **React Admin Dashboard** | Real-time analytics dashboard with charts | React, Node.js, MongoDB | 🎨 Full stack | 🔒 Private |
+| **Android POS System** | Point-of-sale system for retail businesses | Kotlin, SQLite, REST API | 📱 Solo developer | 🔒 Private |
 
 </div>
 
