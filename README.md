@@ -307,7 +307,7 @@ Senior Engineering (what changed with the title):
 
 ### 💭 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&v=20260902" alt="Random Dev Quote" width="80%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&v=20260903" alt="Random Dev Quote" width="80%" />
 
 <sub>🔄 Rotates automatically every day</sub>
 
@@ -315,7 +315,7 @@ Senior Engineering (what changed with the title):
 
 ### 😄 Dev Joke of the Day
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&qColor=%2300D9FF&aColor=%23a9fef7&v=20260902" alt="Random Dev Joke" width="70%" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&qColor=%2300D9FF&aColor=%23a9fef7&v=20260903" alt="Random Dev Joke" width="70%" />
 
 <br/>
 
