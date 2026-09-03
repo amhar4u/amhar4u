@@ -32,7 +32,7 @@
 
 Hey there 👋 I'm **Amhar** — a **Senior Software Engineer** from 🇱🇰 **Sri Lanka**, currently building products at **Dynamic Labs (Magiya.lk)**.
 
-I spend most of my days deep in **Laravel** backends, **Flutter** apps and **ERPNext** customizations — translating messy business requirements into clean, scalable systems. Across **2+ years** I've shipped **10+ web applications** and **5+ mobile apps**, and led small teams through the full cycle: discovery → architecture → code review → deploy.
+I spend most of my days deep in **Laravel** backends, **Flutter** apps and **ERPNext** customizations — translating messy business requirements into clean, scalable systems. I've shipped **web applications** and **mobile apps** end to end, and led small teams through the full cycle: discovery → architecture → code review → deploy.
 
 🎉 **Recently promoted to Senior Software Engineer** — which these days means less time typing and more time on architecture calls, design reviews and unblocking the people around me.
 
@@ -215,11 +215,11 @@ Senior Engineering (what changed with the title):
 
 | 🎖️ | Achievement |
 |-----|------------|
-| 🚀 | Delivered **10+ full-stack web applications** for clients |
+| 🚀 | Delivered **full-stack web applications** for clients |
 | 💻 | Engineered **production Laravel apps** with clean, scalable architecture |
 | 🎖️ | **Promoted to Senior Software Engineer** @ Dynamic Labs (Magiya.lk) — Aug 2026 |
 | 💼 | Own architecture and delivery for multiple **production products** |
-| 📱 | Built **5+ cross-platform mobile apps** using Flutter & React Native |
+| 📱 | Built **cross-platform mobile apps** using Flutter & React Native |
 | 🏢 | Successfully deployed and customized **ERPNext** for multiple businesses |
 | 🤝 | Led a development team of **3–5 engineers** on complex projects |
 | 🔗 | Integrated **REST & SOAP APIs** with multiple enterprise systems |
