@@ -221,7 +221,7 @@ Senior Engineering (what changed with the title):
 | 💼 | Own architecture and delivery for multiple **production products** |
 | 📱 | Built **cross-platform mobile apps** using Flutter & React Native |
 | 🏢 | Successfully deployed and customized **ERPNext** for multiple businesses |
-| 🤝 | Led a development team of **3–5 engineers** on complex projects |
+| 🤝 | Led and mentored **development teams** on complex projects |
 | 🔗 | Integrated **REST & SOAP APIs** with multiple enterprise systems |
 | 🌍 | Worked with clients across **Sri Lanka and internationally** |
 | ⚡ | Reduced client business process time by **40%** through ERP automation |
