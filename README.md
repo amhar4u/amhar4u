@@ -224,7 +224,6 @@ Senior Engineering (what changed with the title):
 | 🤝 | Led and mentored **development teams** on complex projects |
 | 🔗 | Integrated **REST & SOAP APIs** with multiple enterprise systems |
 | 🌍 | Worked with clients across **Sri Lanka and internationally** |
-| ⚡ | Reduced client business process time by **40%** through ERP automation |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" />
 
