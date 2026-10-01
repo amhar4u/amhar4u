@@ -272,7 +272,7 @@ Senior Engineering (what changed with the title):
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedamhar@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94712730644)
 
-📞 **+94 712 730 644** &nbsp;|&nbsp; 📞 **+94 776 657 107** &nbsp;|&nbsp; 📍 **Sri Lanka**
+📞 **+94 712 730 644** &nbsp;|&nbsp; 📍 **Sri Lanka**
 
 </div>
 
